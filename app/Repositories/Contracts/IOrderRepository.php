@@ -6,7 +6,7 @@ namespace App\Repositories\Contracts;
 
 use App\Repositories\IRepository;
 
-interface IStoreRepository extends IRepository
+interface IOrderRepository extends IRepository
 {
 
 }
